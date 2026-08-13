@@ -7,8 +7,8 @@ AI기반 브랜드 광고 패키지
 
 ## 🎬 광고 영상(10s)
 
-[광고 영상 보기](https://drive.google.com/file/d/1Uh1z8SQqwI86sKucGro-qbj4UMkwDq0Q/view?usp=drive_link)
-
+[광고 영상 보기 16:9](https://drive.google.com/file/d/1Uh1z8SQqwI86sKucGro-qbj4UMkwDq0Q/view?usp=drive_link)
+[광고 영상 보기 9:16](https://drive.google.com/file/d/189KKQyD7pSD1pgl5c5gVmUGrce-hfyhI/view?usp=drive_link)
 ## SOURCE
 ### image
 [씬1 / GV60_MAGMA_SC01_i1.jpg](https://github.com/U-an74/GenAI_Basic2/blob/main/GV60_MAGMA_SC01_i1.jpg)
